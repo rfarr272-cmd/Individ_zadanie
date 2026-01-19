@@ -1,0 +1,34 @@
+Taylor Swift;Love Story;Fearless;2008;232;1100000000
+Ed Sheeran;Perfect;÷;2017;263;3200000000
+Drake;One Dance;Views;2016;173;2200000000
+Ariana Grande;Problem;My Everything;2014;213;1500000000
+Taylor Swift;Shake It Off;1989;2014;219;1200000000
+Ed Sheeran;Thinking Out Loud;x;2014;281;2900000000
+Drake;Hotline Bling;Views;2016;267;2000000000
+Ariana Grande;Thank U, Next;Thank U, Next;2018;207;2300000000
+Taylor Swift;Blank Space;1989;2014;231;1400000000
+Ed Sheeran;Photograph;x;2014;258;1700000000
+Drake;In My Feelings;Scorpion;2018;217;1900000000
+Ariana Grande;Bang Bang;My Everything;2014;193;1300000000
+Taylor Swift;Bad Blood;1989;2014;211;1200000000
+Ed Sheeran;Shape of You;÷;2017;233;3500000000
+Drake;God's Plan;Scorpion;2018;198;2500000000
+Ariana Grande;7 Rings;Thank U, Next;2019;178;2100000000
+Justin Bieber;Sorry;Purpose;2015;200;3000000000
+Katy Perry;Roar;Prism;2013;224;1800000000
+Justin Bieber;Love Yourself;Purpose;2015;203;2800000000
+Katy Perry;Dark Horse;Prism;2013;215;2000000000
+Justin Bieber;What Do You Mean?;Purpose;2015;207;2600000000
+Katy Perry;Firework;Teenage Dream;2010;227;1600000000
+Rihanna;Work;Anti;2016;219;1600000000
+Bruno Mars;Uptown Funk;Uptown Special;2014;270;3200000000
+Rihanna;Diamonds;Unapologetic;2012;225;1400000000
+Bruno Mars;That's What I Like;24K Magic;2016;206;2500000000
+Rihanna;We Found Love;Talk That Talk;2011;213;1800000000
+Bruno Mars;Just the Way You Are;Doo-Wops & Hooligans;2010;220;1700000000
+Lady Gaga;Bad Romance;The Fame Monster;2009;294;2500000000
+The Weeknd;Starboy;Starboy;2016;230;2800000000
+Lady Gaga;Shallow;A Star Is Born;2018;215;2200000000
+The Weeknd;Can't Feel My Face;Beauty Behind the Madness;2015;213;1900000000
+Lady Gaga;Poker Face;The Fame;2008;237;1800000000
+The Weeknd;The Hills;Beauty Behind the Madness;2015;234;2100000000
